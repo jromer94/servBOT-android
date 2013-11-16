@@ -33,6 +33,10 @@
             android:name="com.example.servbot.RestaurantMenu"
             android:label="@string/title_activity_restaurant_menu" >
         </activity>
+        <activity
+            android:name="com.example.servbot.Order"
+            android:label="@string/title_activity_order" >
+        </activity>
     </application>
 
 </manifest>
